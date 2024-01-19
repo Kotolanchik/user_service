@@ -1,0 +1,2 @@
+app_user_service_port: 8080
+postgres_conn_str: postgresql://localhost@bot_services_postgres:26257/user-services
